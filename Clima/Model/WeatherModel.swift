@@ -2,7 +2,7 @@
 //  WeatherModel.swift
 //  Clima
 //
-//  Created by Dmytro Vasylenko on 10.08.2022.
+//  Created by Dmytro Vasylenko on 09.08.2022.
 //  
 //
 
@@ -35,8 +35,6 @@ struct WeatherModel {
             return "cloud.bolt"
         default:
             return "cloud"
-        } 
+        }
     }
-    
-
 }

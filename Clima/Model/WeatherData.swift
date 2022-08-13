@@ -2,7 +2,7 @@
 //  WeatherData.swift
 //  Clima
 //
-//  Created by d vasylenko on 09.08.2022.
+//  Created by d vasylenko on 08.08.2022.
 //  
 //
 
